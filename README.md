@@ -1,2 +1,2 @@
-# Dribble1-Website-Project
-This is a dribble web site project
+# Amazon-Website-Clone-Project
+This is a Amazon website clone project
